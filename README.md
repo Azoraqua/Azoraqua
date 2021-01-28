@@ -2,11 +2,11 @@
 Hi, I am Ronald, a Full-Stack Software Engineer/Architect who is experienced with various programming languages and concepts.
 
 ### Projects
-- [QSimpleSQL](https://github.com/Azoraqua/QSimpleSQL)
-- [QORM](https://github.com/Azoraqua/QORM)
-- [QAuto](https://github.com/Azoraqua/QAuto)
-- [QChat](https://github.com/Azoraqua/QChat)
-- [QEdit](https://github.com/Azoraqua/QEdit)
+- [QSimpleSQL](https://github.com/Azoraqua/QSimpleSQL) (Java)
+- [QORM](https://github.com/Azoraqua/QORM) (Java)
+- [QAuto](https://github.com/Azoraqua/QAuto) (Java)
+- [QChat](https://github.com/Azoraqua/QChat) (Java)
+- [QEdit](https://github.com/Azoraqua/QEdit) (C++)
 
 ### Contact
 Feel free to contact me on my mail (me@azoraqua.com) or maybe if you like chat some more; You can find me on Discord as `Azoraqua#0517`.
