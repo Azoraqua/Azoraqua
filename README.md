@@ -6,7 +6,6 @@ Coming soon.
 
 ### 📫 Contact
 Feel to contact me whenever you want, you can contact me through:
-- Phone: `+31 (0)6 57 62 28 83`
 - E-mail: `me@azoraqua.com`
 - Discord: `Azoraqua#0517`
 
