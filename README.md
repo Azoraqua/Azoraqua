@@ -1,16 +1,18 @@
 ### Hi there 👋
+I am Ronald, a full-stack software engineer from The Netherlands.  
+Experienced with many technologies and concepts, and I love to expand my mental libraries!
 
-<!--
-**Azoraqua/Azoraqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔨 Technologies that I am familiar with:
+##### Programming languages:
+- Java & Kotlin
+- TypeScript
+- Rust
+- Go
+##### Tools
+- Linux, Mac & Windows
+- Docker
+- Various databases (such as MySQL, PostgreSQL, SQLite and MongoDB)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 How to reach me: 
+- Email: info@azoraqua.com
+- Discord: azoraqua#0
