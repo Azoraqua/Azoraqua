@@ -5,8 +5,9 @@ Experienced with many technologies and concepts, and I love to expand my mental 
 #### 🔨 Technologies that I am familiar with:
 ##### Programming languages:
 - Java & Kotlin
-- TypeScript
-- Rust
+- JavaScript & TypeScript
+- Python
+- C/C++
 - Go
 ##### Tools
 - Linux, Mac & Windows
@@ -14,5 +15,5 @@ Experienced with many technologies and concepts, and I love to expand my mental 
 - Various databases (such as MySQL, PostgreSQL, SQLite and MongoDB)
 
 #### 📫 How to reach me: 
-- Email: info@azoraqua.com
+- Email: info@azoraqua.dev
 - Discord: azoraqua#0
