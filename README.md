@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 I am Ronald, a full-stack software engineer from The Netherlands.  
 Experienced with many technologies and concepts, and I love to expand my mental libraries!
 
