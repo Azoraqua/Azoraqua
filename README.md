@@ -9,6 +9,8 @@ Experienced with many technologies and concepts, and I love to expand my mental 
 - Python
 - C/C++
 - Go
+- Rust
+- 
 ##### Tools
 - Linux, Mac & Windows
 - Docker
