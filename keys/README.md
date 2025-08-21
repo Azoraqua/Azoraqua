@@ -6,8 +6,7 @@
 - Fingerprint: `20EF 41C5 EF31 BCA1 59A7  9092 B32D C311 C027 974B`
 - Public key: [azoraqua.asc](./azoraqua.asc)
 
-**SSH (from OpenPGP smartcard)**
-- Algorithm: ED25519 (OpenPGP smartcard subkey)
-- Fingerprint: `SHA256:1+2qBIJhVdfso/KRQXDpjeuvP25JEAfAr6lJqA6TcLE`
-- Key ID: `openpgp:0x6A589CB8`
-- Public key: [azoraqua_ssh.pub](./azoraqua_ssh.pub)
+**SSH (OpenSSH ~ FIDO2-backed)**
+- Algorithm: ED25519
+- Fingerprint: `SHA256:P2qx/HBgS1XnNlmxSKxt5aMwyAL8s8JNcpX/pqgBeow`
+- Public key: [azoraqua.pub](./azoraqua.pub)
